@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Friends-in-React/static/css/main.856104dd.css",
+    "main.js": "/Friends-in-React/static/js/main.edf61b73.js",
+    "static/js/787.d84c2030.chunk.js": "/Friends-in-React/static/js/787.d84c2030.chunk.js",
+    "static/media/SEGA.woff": "/Friends-in-React/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Friends-in-React/index.html",
+    "main.856104dd.css.map": "/Friends-in-React/static/css/main.856104dd.css.map",
+    "main.edf61b73.js.map": "/Friends-in-React/static/js/main.edf61b73.js.map",
+    "787.d84c2030.chunk.js.map": "/Friends-in-React/static/js/787.d84c2030.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.856104dd.css",
+    "static/js/main.edf61b73.js"
+  ]
+}
