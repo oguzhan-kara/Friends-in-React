@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+https://oguzhan-kara.github.io/Friends-in-React/
+
 ![image](https://user-images.githubusercontent.com/90158617/165155543-4b14ca19-dbb6-4ed2-ac8c-34edb9e91c41.png)
 
 
